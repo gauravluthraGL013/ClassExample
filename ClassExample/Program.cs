@@ -10,7 +10,7 @@ namespace ClassExample
         {
             Console.WriteLine("Hello World!");
 
-
+            //added cooment
             Console.WriteLine("Please enter position ");
             string position = Console.ReadLine();
             Console.WriteLine("Please enter salary ");
